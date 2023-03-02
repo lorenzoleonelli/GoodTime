@@ -8,6 +8,8 @@
 
 ## Emphasis
 
+### Some Text ###
+
 *This text will be italic*  
 _This will also be italic_
 
@@ -43,7 +45,7 @@ You may be using [Markdown Live Preview](https://markdownlivepreview.com/).
 
 ## Internal Links
 
-Nella speranza che vadano :-) [Vai a Headers] (#user-content-the-headers)
+Nella speranza che vadano :-) [Some Text][]will link to a header named “Some Text”
 
 ## Blockquotes
 
