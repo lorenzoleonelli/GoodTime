@@ -49,7 +49,9 @@ You may be using [Markdown Live Preview](https://markdownlivepreview.com/).
 
 Create a link to it this way:
 
-[Link](#11-hello-world)
+[Link to Hello World](#11-hello-world)
+
+[Link to Heading H1](#this-is-a-heading-h1)
 
 ## Blockquotes
 
