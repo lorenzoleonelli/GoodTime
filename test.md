@@ -67,6 +67,13 @@ Create a link to it this way:
 | left bar      | right bar     |
 | left baz      | right baz     |
 
+| Left columns  | Center columns | Right columns |
+| ------------- |:-------------:| :-------------:|
+| left foo      | right foo     | right foo     |
+| left bar      | right bar     | right bar  in elongazione   |
+| left baz      | right baz     | right baz     |
+
+
 ## Blocks of code
 
 ```
