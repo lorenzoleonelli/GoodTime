@@ -1,6 +1,6 @@
 # Markdown syntax guide
 
-## Headers
+<a name="head1234">## Headers</a>
 
 # This is a Heading h1
 ## This is a Heading h2 
@@ -43,7 +43,7 @@ You may be using [Markdown Live Preview](https://markdownlivepreview.com/).
 
 ## Internal Links
 
-Nella speranza che vadano :-) [Vai a Headers] (#Headers)
+Nella speranza che vadano :-) [Vai a Headers] (#head1234)
 
 ## Blockquotes
 
