@@ -43,7 +43,7 @@ You may be using [Markdown Live Preview](https://markdownlivepreview.com/).
 
 ## Internal Links
 
-Nella speranza che vadano :-) [Vai a Headers] (#the-headers)
+Nella speranza che vadano :-) [Vai a Headers] (#user-content-the-headers)
 
 ## Blockquotes
 
