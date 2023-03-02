@@ -45,7 +45,11 @@ You may be using [Markdown Live Preview](https://markdownlivepreview.com/).
 
 ## Internal Links
 
-Nella speranza che vadano :-) [Some Text][]will link to a header named “Some Text”
+## 1.1 Hello World
+
+Create a link to it this way:
+
+[Link](#11-hello-world)
 
 ## Blockquotes
 
